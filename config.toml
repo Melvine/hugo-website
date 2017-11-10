@@ -1,0 +1,5 @@
+baseURL = "https://melvine.github.io/hugo-website/"
+languageCode = "en-us"
+title = "Melvine's Site"
+theme = "ananke"
+publishDir = "docs"
